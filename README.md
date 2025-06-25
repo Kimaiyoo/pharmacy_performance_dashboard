@@ -78,8 +78,8 @@ This dashboard is built using RCPA (Retail Chemist Prescription Audit) data to p
 
 ## 👤 Author
 
-GitHub: [Kimaiyoo](https://github.com/Kimaiyoo)
-LinkedIn: [Naomi Jepkorir Kimaiyo](https://www.linkedin.com/in/naomi-jepkorir-kimaiyo/)
+- GitHub: [Kimaiyoo](https://github.com/Kimaiyoo)
+- LinkedIn: [Naomi Jepkorir Kimaiyo](https://www.linkedin.com/in/naomi-jepkorir-kimaiyo/)
 ---
 
 ## 📄 License
