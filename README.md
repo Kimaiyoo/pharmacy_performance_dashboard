@@ -1,6 +1,6 @@
 # 🧾 Doctor Rx Performance Dashboard
 
-A Power BI dashboard project designed to track and visualize doctor prescription performance, brand competition, and conversion trends across regions and medical representatives.
+A Power BI dashboard project designed to track and visualize doctor prescription performance, brand competition and conversion trends across regions and medical representatives.
 
 ---
 
@@ -27,7 +27,7 @@ This dashboard is built using RCPA (Retail Chemist Prescription Audit) data to p
 
 ### 1. **Rx Performance vs. Target**
 - Weekly actual Rx normalized against monthly targets
-- Dynamic filtering by Brand, Region, and Med Rep
+- Dynamic filtering by Brand, Region and Med Rep
 
 ### 2. **Brand Competition Analysis**
 - Stacked visuals comparing competitor and focus brands
