@@ -1,4 +1,4 @@
-# 🧾 Doctor Rx Performance & Conversion Dashboard
+# 🧾 Doctor Rx Performance Dashboard
 
 A Power BI dashboard project designed to track and visualize doctor prescription performance, brand competition, and conversion trends across regions and medical representatives.
 
@@ -78,7 +78,7 @@ This dashboard is built using RCPA (Retail Chemist Prescription Audit) data to p
 
 ## 👤 Author
 
-**Naomi Jepkorir Kimaiyo**(https://github.com/Kimaiyoo)  
+**Naomi Jepkorir Kimaiyo**[https://github.com/Kimaiyoo]  
 ---
 
 ## 📄 License
